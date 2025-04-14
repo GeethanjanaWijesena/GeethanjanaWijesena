@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @GeethanjanaWijesena
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning php,sql and react.js
-- 💞️ I’m looking to collaborate on web apps.
-- 📫 How to reach me - asankageethwije@gmail.com
+# Hi there, I'm Geethanjana Wijesena 👋
+
+Welcome to my GitHub profile! I'm passionate about **Computer Sciene | Web Development** and love contributing to open-source projects. Here's a little bit about me and my work:
+
+---
+
+## 🌟 About Me
+- 💼 **Current Role**: Student
+- 🎓 **Education**: Bsc (Computer Science , Statistics) Undergraduate @ University of Peradeniya
+- 🌱 **Currently Learning**: Nest.js, Next.js, Docker, DevOps, AI, etc.
+- 💬 **Connect Me**: asankageethwije@gmail.com
 
 ---
 
