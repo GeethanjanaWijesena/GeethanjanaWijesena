@@ -1,6 +1,6 @@
 # Hi there, I'm Geethanjana Wijesena 👋
 
-Welcome to my GitHub profile! I'm passionate about **Computer Sciene | Web Development** and love contributing to open-source projects. Here's a little bit about me and my work:
+Welcome to my GitHub profile! I'm passionate about **Computer Sciene / Web Development** and love contributing to open-source projects. Here's a little bit about me and my work:
 
 ---
 
